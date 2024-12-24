@@ -1,0 +1,31 @@
+[+] Containers:
+ |- [+] Container: /Game/MyMaps/Start
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0CE863E24036AF5CA22A6FB821C2BA4E BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:CCBCC10441CC6C5F739AF49BC8514B15 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_02500ED62E821B3B02_2025969568 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0CE863E24036AF5CA22A6FB821C2BA4E BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:CCBCC10441CC6C5F739AF49BC8514B15 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_02500ED62E821B3B02_2025969568 Label:DirectionalLight SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/MyMaps/Start
+----------------------------------------------------------------------------------------------------------------
+Start - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Start Persistent Level
+ |- Always loaded Actor Count: 2 
+ |- Actor Path: /Game/MyMaps/Start.Start:PersistentLevel.DirectionalLight_UAID_02500ED62E821B3B02_2025969568
+ |- Actor Package: /Game/__ExternalActors__/MyMaps/Start/4/VH/02I5U8E5TFLP1UNGXG51DH
+ |- Actor Path: /Game/MyMaps/Start.Start:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/MyMaps/Start/5/WG/VKQ9GX1Q4YTGVAXR1HTP88
+
+----------------------------------------------------------------------------------------------------------------
+Start - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
